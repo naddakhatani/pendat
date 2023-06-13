@@ -6,7 +6,7 @@ from sklearn.svm import SVC
 st.set_page_config(page_title='Diagnosis ISPA', layout='wide')
 
 def run():
-    @st.chace_data
+    @st.chace_resource
     def load_data():
         data = pd.read_excel('pages/ispabaru_normalized2.xlsx')
         return data
