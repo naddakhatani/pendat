@@ -22,6 +22,6 @@ st.write("ISPA adalah penyebab utama morbiditas dan mortalitas penyakit menular 
 
 st.write(" Situasi saat ini perlakuan Dinas Kesehatan perlu melakukan penanganan yang efektif terhadap penyakit ISPA. oleh karena itu, diperlukan suatu metode dalam  klasifikasi penyakit ISPA menggunakan algoritma SVM")
 
-st.write("Dengan adanya permasalahan diatas, kami membuat suatu sistem untuk mendiagnosa penyakit Diabetes Mellitus, silahkan Diagnosis penyakit anda.")
+st.write("Dengan adanya permasalahan diatas, kami membuat suatu sistem untuk mendiagnosa penyakit ISPA atau Pnuenomia, silahkan Diagnosis penyakit anda.")
 
 
